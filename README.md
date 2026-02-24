@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A1F44&center=true&vCenter=true&width=800&lines=WILLAM+ARTURO+BADILLO+LARIOS;Full+Stack+Developer+Student;Information+Technologies+%26+Digital+Innovation" alt="Typing SVG" />
+</p>
 
-<!--
-**willxsj/willxsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer Student · Web Technologies · Digital Innovation
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a student of **Information Technologies and Digital Innovation** at the *Universidad Tecnológica de Tulancingo*, focused on becoming a **full stack web developer**.
+
+I work on projects that involve both **frontend and backend development**, aiming to build applications that are functional, well-structured, and easy to maintain.  
+
+
+---
+
+## What I Work With
+
+- Frontend development using HTML, CSS, and JavaScript  
+- Backend development with Python and APIs  
+- Basic database integration  
+- Version control with Git and GitHub  
+
+---
+
+## Tools and Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Technology stack" />
+</p>
+
+---
+
+
+
+## Academic & Professional Goal
+
+To continue developing my skills as a **full stack developer** by working on real projects, improving my technical foundations, and learning modern development practices.
+
+---
