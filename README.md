@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A1F44&center=true&vCenter=true&width=800&lines=WILLAM+ARTURO+BADILLO+LARIOS;Full+Stack+Developer+Student;Information+Technologies+%26+Digital+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=WILLAM+ARTURO+BADILLO+LARIOS;Full+Stack+Developer+Student;Information+Technologies+%26+Digital+Innovation" alt="Typing SVG" />
 </p>
 
-<h3 align="center">
+<h3 align="center" style="color:#9E9E9E;">
 Full Stack Developer Student · Web Technologies · Digital Innovation
 </h3>
 
@@ -28,8 +28,39 @@ I work on projects that involve both **frontend and backend development**, aimin
 
 ## Tools and Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" alt="Technology stack" />
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" height="80" alt="Python"/><br>
+        <strong>Python</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" height="80" alt="HTML"/><br>
+        <strong>HTML</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" height="80" alt="CSS"/><br>
+        <strong>CSS</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" height="80" alt="JavaScript"/><br>
+        <strong>JavaScript</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" height="80" alt="Git"/><br>
+        <strong>Git</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=github" height="80" alt="GitHub"/><br>
+        <strong>GitHub</strong>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="VS Code"/><br>
+        <strong>VS Code</strong>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
